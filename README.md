@@ -9,6 +9,6 @@ cd InsertDateTime
 wget https://github.com/RainVision/InsertDateTime.sublimetext3/InsertDateTime.py
 ```
 ## Configure
-Open Sublime Text 3.
-Click [Preferences] -> [Key Bindings - User]
+Open Sublime Text 3.  
+Click [Preferences] -> [Key Bindings - User]  
 add `{"keys": ["ctrl+f5"], "command": "insert_date_time"}`
